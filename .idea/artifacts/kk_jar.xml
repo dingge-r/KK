@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kk_jar</output-path>
+    <root id="archive" name="kk.jar">
+      <element id="module-output" name="kk" />
+      <element id="extracted-dir" path="D:/工具/java_jar/fastjson-1.2.29/fastjson-1.2.29.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
